@@ -1,11 +1,7 @@
-# LBG Bristol Assessment Centre Activity
-
-Given a list of user requirements for a new banking app, our task will involve prioritising those requirements to define the Minimum Viable Product for this app along with producing some initial designs. More details will be offered during the brief on the day.
 
 ## Introduction
 Customers are choosing digital channels - including mobile banking - over any other way to bank, with just 8% of customers using a branch as the only way to manage their money.
 
-23 million of LBG customers logging on around 300 times a year - so almost every day. [Only social media platforms see more engagement on their apps in the UK than LBG do](https://www.lloydsbankinggroup.com/insights/how-are-people-banking-now-.html). Of the 21 million customers banking with LBG online, over 17 million choose mobile banking, making LBG the UK's biggest mobile bank. 
 
 ### Types of mobile banking apps
 The main types of mobile banking are [app-based, SMS and USSD](https://anywhere.epam.com/business/how-to-build-a-mobile-banking-application).  In this ocassion we will be reviewing app-based which allows customers to download a mobile application. It features a mobile UI that lets customers tap their screens to navigate menus, input information, gather data, or manage a variety of supported transactions. Often, mobile banking apps also provide access to customer service, either via chat or by launching a phone call to reach a representative. 
